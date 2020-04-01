@@ -1,0 +1,16 @@
+<?xml-stylesheet type="text/xsl" href="https:///sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https:///selenefreeze.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https:///selenefreeze.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https:///selenefreeze.github.io/tags/</loc>
+  </url>
+  
+</urlset>
